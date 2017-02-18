@@ -25,6 +25,7 @@
 #define __GIST__MFCC__
 
 #define _USE_MATH_DEFINES
+#include <cstddef>
 #include <vector>
 #include <cmath>
 
