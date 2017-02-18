@@ -1,4 +1,5 @@
 test/Build
+test/gisttest
 *.xcuserstate
 xcuserdata
 python-module/build
